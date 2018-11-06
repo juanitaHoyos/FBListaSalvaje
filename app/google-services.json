@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "930884717084",
+    "firebase_url": "https://fblistasalvaje.firebaseio.com",
+    "project_id": "fblistasalvaje",
+    "storage_bucket": "fblistasalvaje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930884717084:android:3992c8b7038229a0",
+        "android_client_info": {
+          "package_name": "fblistasalvaje.icesi.dmi.fblistasalvaje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930884717084-vb3vvka0r1qi98btn5autofs1aurmsfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fblistasalvaje.icesi.dmi.fblistasalvaje",
+            "certificate_hash": "72215c8b0acd4a87c273a83fff4ab77f283bafaa"
+          }
+        },
+        {
+          "client_id": "930884717084-bfsbp2705bntpje09ofc7ua9jj03sv96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OkhhNhHuoD_5p2aghziSqzzqzLxgDys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930884717084-bfsbp2705bntpje09ofc7ua9jj03sv96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
